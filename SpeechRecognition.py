@@ -21,18 +21,8 @@ DEFAULT_APP_MAPPING = {
     "calculator": "calc.exe",
     "spotify": os.path.expandvars(r"%APPDATA%\Spotify\Spotify.exe"),
     "discord": os.path.expandvars(r"%LOCALAPPDATA%\Discord\Update.exe --processStart Discord.exe"),
-    # "proton": r"C:\Program Files\Proton\VPN\v4.2.2\ProtonVPN.exe",
-    # "opera": os.path.expandvars(r"%LOCALAPPDATA%\Programs\Opera GX\opera.exe"),
-    # "auto clicker": os.path.expandvars(r"%LOCALAPPDATA%\OP Auto Clicker\AutoClicker-3.0.exe"),
-    # "drivers": r"C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA App.exe",
-    # "games folder": os.path.expandvars(r"%USERPROFILE%\OneDrive\Desktop\Games"),
     "steam": r"C:\Program Files (x86)\Steam\steam.exe",
     "downloads folder": os.path.expandvars(r"%USERPROFILE%\Downloads"),
-    # "citra": os.path.expandvars(r"%USERPROFILE%\OneDrive\Desktop\citra-windows-msvc-20240303-0ff3440\citra-qt.exe"),
-    # "switch": os.path.expandvars(r"%USERPROFILE%\OneDrive\Desktop\yuzu-windows-msvc\yuzu.exe"),
-    # "gba": os.path.expandvars(r"%USERPROFILE%\OneDrive\Desktop\mGBA-0.10.3-win64\mGBA.exe"),
-    # "melon": os.path.expandvars(r"%USERPROFILE%\OneDrive\Desktop\melonDS.exe"),
-    # "tablet": r"C:\LDPlayer\LDPlayer9\dnplayer.exe",
     "epic": r"C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe",
 }
 
